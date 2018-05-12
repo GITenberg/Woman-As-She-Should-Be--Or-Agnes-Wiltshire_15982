@@ -1,0 +1,24 @@
+_repo: Woman-As-She-Should-Be--Or-Agnes-Wiltshire_15982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herbert, Mary E.
+    gutenberg_agent_id: '6411'
+    url: http://www.gutenberg.org/2009/agents/6411
+description: ''
+gutenberg_issued: '2005-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian fiction'
+- !lcc 'PS'
+title: Woman As She Should Be; Or, Agnes Wiltshire
+url: http://www.gutenberg.org/ebooks/15982
