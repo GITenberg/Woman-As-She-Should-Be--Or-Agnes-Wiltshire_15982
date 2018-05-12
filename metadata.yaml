@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6411'
     url: http://www.gutenberg.org/2009/agents/6411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15982#Woman-As-She-Should-Be--Or-Agnes-Wiltshire
 gutenberg_issued: '2005-06-04'
 gutenberg_type: Text
 identifiers:
